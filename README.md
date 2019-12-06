@@ -1,5 +1,6 @@
 # Usage
 Linux: `git clone https://github.com/novate/novate_vim.git ~/.vim`
+
 Windows: `git clone https://github.com/novate/novate_vim.git ~/vimfiles`
 
 # Configs
