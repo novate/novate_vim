@@ -4,9 +4,9 @@ syntax on
 " Set color scheme
 colorscheme codedark
 
-" Change tabs to 2 spaces
+" Change tabs to 4 spaces
 set expandtab
-set softtabstop=2
+set softtabstop=4
 
 " Add line numbers
 set number
